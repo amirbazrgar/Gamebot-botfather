@@ -3,7 +3,7 @@ from rubka.keypad import ChatKeypadBuilder
 from rubka.context import Message
 import random, time, json, os
 
-bot = Robot("BCAHH0USYYKPVTQLQKBKVFITJSAZABHKDFQPJPXSPAGLOJSBXEEFODBMLFZTYXYS")
+bot = Robot("token")
 
 users_data_path = "game_users.json"
 users_data = {}
